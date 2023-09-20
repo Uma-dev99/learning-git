@@ -1,17 +1,3 @@
-# Resume
-## Internship Experience
+I am learning web development from Vishal Rajput.
 
-EazyBe
-
-Ukom
-
-Castled Data
-
-CareerLeap
-
-Ishaanvi Solutions
-
-
-## Education Experience
-
-- BTech from NSUT
+- [Uma-dev99](https://github.com/Uma-dev99)
